@@ -1,0 +1,25 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "DTI3minSENSE",
+    "SeriesNumber": 12,
+    "AcquisitionNumber": 12,
+    "ImageComments": "fMRI",
+    "PhilipsRescaleSlope": 4.98168,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0011991,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.051,
+    "RepetitionTime": 4.41,
+    "ImageOrientationPatientDICOM": [
+        0.999958,
+        0.00578614,
+        -0.00708277,
+        -0.00610847,
+        0.998906,
+        -0.0463667
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20220720"
+}

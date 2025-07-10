@@ -1,0 +1,26 @@
+{
+  "Manufacturer": "Philips",
+  "PatientPosition": "HFS",
+  "SeriesDescription": "ImageMRSERIES",
+  "ProtocolName": "RestingStateSENSE",
+  "SeriesNumber": 15,
+  "AcquisitionNumber": 15,
+  "ImageComments": "Hippo",
+  "PhilipsRescaleSlope": 1.24786,
+  "PhilipsRescaleIntercept": 0,
+  "PhilipsScaleSlope": 0.000635097,
+  "UsePhilipsFloatNotDisplayScaling": 1,
+  "EchoTime": 0.025,
+  "RepetitionTime": 2,
+  "ImageOrientationPatientDICOM": [
+    0.998066,
+    0.0445387,
+    -0.0433657,
+    -0.047766,
+    0.995927,
+    -0.0764735
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "TaskName": "rest"
+}

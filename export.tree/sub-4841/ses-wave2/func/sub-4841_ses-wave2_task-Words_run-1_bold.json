@@ -1,0 +1,26 @@
+{
+  "Manufacturer": "Philips",
+  "PatientPosition": "HFS",
+  "SeriesDescription": "ImageMRSERIES",
+  "ProtocolName": "WIPWordsSENSE",
+  "SeriesNumber": 2,
+  "AcquisitionNumber": 2,
+  "ImageComments": "HippoNC",
+  "PhilipsRescaleSlope": 0.75018,
+  "PhilipsRescaleIntercept": 0,
+  "PhilipsScaleSlope": 0.00121632,
+  "UsePhilipsFloatNotDisplayScaling": 1,
+  "EchoTime": 0.025,
+  "RepetitionTime": 2,
+  "ImageOrientationPatientDICOM": [
+    0.992793,
+    0.108454,
+    -0.0509781,
+    -0.108553,
+    0.99409,
+    0.00083355
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "TaskName": "Words"
+}

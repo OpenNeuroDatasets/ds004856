@@ -1,0 +1,26 @@
+{
+  "Manufacturer": "Philips",
+  "PatientPosition": "HFS",
+  "SeriesDescription": "ImageMRSERIES",
+  "ProtocolName": "WIPScenesSENSE(3)SENSE",
+  "SeriesNumber": 9,
+  "AcquisitionNumber": 9,
+  "ImageComments": "HippoMBHC",
+  "PhilipsRescaleSlope": 1.43541,
+  "PhilipsRescaleIntercept": 0,
+  "PhilipsScaleSlope": 0.000819859,
+  "UsePhilipsFloatNotDisplayScaling": 1,
+  "EchoTime": 0.025,
+  "RepetitionTime": 2,
+  "ImageOrientationPatientDICOM": [
+    0.998947,
+    -0.0125968,
+    0.0441223,
+    0.0179599,
+    0.992201,
+    -0.123348
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "TaskName": "Scenes"
+}

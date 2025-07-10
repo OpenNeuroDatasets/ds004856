@@ -1,0 +1,26 @@
+{
+  "Manufacturer": "Philips",
+  "PatientPosition": "HFS",
+  "SeriesDescription": "ImageMRSERIES",
+  "ProtocolName": "HCBOLDSENSE",
+  "SeriesNumber": 24,
+  "AcquisitionNumber": 24,
+  "ImageComments": "HippoHC",
+  "PhilipsRescaleSlope": 1.65128,
+  "PhilipsRescaleIntercept": 0,
+  "PhilipsScaleSlope": 0.000784183,
+  "UsePhilipsFloatNotDisplayScaling": 1,
+  "EchoTime": 0.025,
+  "RepetitionTime": 2,
+  "ImageOrientationPatientDICOM": [
+    0.999695,
+    -0.0118755,
+    0.0216347,
+    0.0118652,
+    0.999929,
+    0.000605869
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "TaskName": "Hypercapnia"
+}

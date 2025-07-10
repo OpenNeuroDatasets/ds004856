@@ -1,0 +1,27 @@
+{
+  "Manufacturer": "Philips",
+  "PatientPosition": "HFS",
+  "SeriesDescription": "ImageMRSERIES",
+  "ProtocolName": "WIPHCBOLDSENSE",
+  "SeriesNumber": 24,
+  "AcquisitionNumber": 24,
+  "ImageComments": "Hippo_LMBHC",
+  "PhilipsRescaleSlope": 2.03565,
+  "PhilipsRescaleIntercept": 0,
+  "PhilipsScaleSlope": 0.000774946,
+  "UsePhilipsFloatNotDisplayScaling": 1,
+  "EchoTime": 0.025,
+  "RepetitionTime": 2,
+  "ReconMatrixPE": 64,
+  "ImageOrientationPatientDICOM": [
+    0.999202,
+    -0.0174273,
+    0.0359527,
+    0.0174411,
+    0.999848,
+    -7.06806E-5
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20181114  Clang4.0.1",
+  "TaskName": "Hypercapnia"
+}

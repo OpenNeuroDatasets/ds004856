@@ -1,0 +1,26 @@
+{
+  "Manufacturer": "Philips",
+  "PatientPosition": "HFS",
+  "SeriesDescription": "ImageMRSERIES",
+  "ProtocolName": "ScenesSENSE",
+  "SeriesNumber": 6,
+  "AcquisitionNumber": 6,
+  "ImageComments": "fMRI",
+  "PhilipsRescaleSlope": 1.51136,
+  "PhilipsRescaleIntercept": 0,
+  "PhilipsScaleSlope": 0.000832758,
+  "UsePhilipsFloatNotDisplayScaling": 1,
+  "EchoTime": 0.025,
+  "RepetitionTime": 2,
+  "ImageOrientationPatientDICOM": [
+    0.998946,
+    0.041462,
+    -0.0197092,
+    -0.0427415,
+    0.996654,
+    -0.0696741
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "TaskName": "Scenes"
+}

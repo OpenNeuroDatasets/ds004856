@@ -1,0 +1,26 @@
+{
+  "Manufacturer": "Philips",
+  "PatientPosition": "HFS",
+  "SeriesDescription": "ImageMRSERIES",
+  "ProtocolName": "WIPLocSENSE(2)SENSE",
+  "SeriesNumber": 4,
+  "AcquisitionNumber": 4,
+  "ImageComments": "Hippo",
+  "PhilipsRescaleSlope": 1.40879,
+  "PhilipsRescaleIntercept": 0,
+  "PhilipsScaleSlope": 0.000766066,
+  "UsePhilipsFloatNotDisplayScaling": 1,
+  "EchoTime": 0.025,
+  "RepetitionTime": 2,
+  "ImageOrientationPatientDICOM": [
+    0.999797,
+    -0.012309,
+    0.0159475,
+    0.0134371,
+    0.997265,
+    -0.0726823
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "TaskName": "VentralVisual"
+}

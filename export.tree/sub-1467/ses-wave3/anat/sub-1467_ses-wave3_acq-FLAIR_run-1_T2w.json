@@ -1,0 +1,26 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPT2W_FLAIR642.5nogapSENSE",
+    "SeriesNumber": 9,
+    "AcquisitionNumber": 9,
+    "ImageComments": "Hippo",
+    "PhilipsRescaleSlope": 5.39731,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0136743,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.125,
+    "RepetitionTime": 11,
+    "InversionTime": 2.8,
+    "ImageOrientationPatientDICOM": [
+        0.996141,
+        0.0378041,
+        -0.0792103,
+        -0.0379196,
+        0.999281,
+        4.60576e-05
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20220720"
+}

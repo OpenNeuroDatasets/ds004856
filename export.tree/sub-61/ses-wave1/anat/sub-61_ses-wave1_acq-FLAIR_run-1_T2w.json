@@ -1,0 +1,26 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "T2W_FLAIRCLEAR",
+    "SeriesNumber": 13,
+    "AcquisitionNumber": 13,
+    "ImageComments": "fMRI",
+    "PhilipsRescaleSlope": 2.77949,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0211815,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.125,
+    "RepetitionTime": 11,
+    "InversionTime": 2.8,
+    "ImageOrientationPatientDICOM": [
+        0.996684,
+        -0.0302566,
+        -0.0755339,
+        0.0250547,
+        0.99731,
+        -0.0688904
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20220720"
+}

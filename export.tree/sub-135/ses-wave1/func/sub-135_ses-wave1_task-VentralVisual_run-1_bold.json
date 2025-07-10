@@ -1,0 +1,26 @@
+{
+  "Manufacturer": "Philips",
+  "PatientPosition": "HFS",
+  "SeriesDescription": "ImageMRSERIES",
+  "ProtocolName": "LocSENSE",
+  "SeriesNumber": 3,
+  "AcquisitionNumber": 3,
+  "ImageComments": "fMRI",
+  "PhilipsRescaleSlope": 2.16874,
+  "PhilipsRescaleIntercept": 0,
+  "PhilipsScaleSlope": 0.000823093,
+  "UsePhilipsFloatNotDisplayScaling": 1,
+  "EchoTime": 0.025,
+  "RepetitionTime": 2,
+  "ImageOrientationPatientDICOM": [
+    0.998904,
+    0.0310227,
+    0.0350493,
+    -0.0270295,
+    0.993657,
+    -0.109161
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "TaskName": "VentralVisual"
+}

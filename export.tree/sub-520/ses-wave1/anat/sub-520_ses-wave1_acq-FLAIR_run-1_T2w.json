@@ -1,0 +1,26 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "T2W_FLAIRCLEAR",
+    "SeriesNumber": 14,
+    "AcquisitionNumber": 14,
+    "ImageComments": "Hippo",
+    "PhilipsRescaleSlope": 2.94066,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0203843,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.125,
+    "RepetitionTime": 11,
+    "InversionTime": 2.8,
+    "ImageOrientationPatientDICOM": [
+        0.999548,
+        0.0279119,
+        0.0111899,
+        -0.0279199,
+        0.99961,
+        0.000560443
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20220720"
+}

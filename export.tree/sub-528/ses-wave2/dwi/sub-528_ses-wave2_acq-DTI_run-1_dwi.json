@@ -1,0 +1,25 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPDTI3minSENSE",
+    "SeriesNumber": 18,
+    "AcquisitionNumber": 18,
+    "ImageComments": "HippoMB",
+    "PhilipsRescaleSlope": 3.83468,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00122669,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.051,
+    "RepetitionTime": 4.41,
+    "ImageOrientationPatientDICOM": [
+        0.998086,
+        -0.0118891,
+        0.0606917,
+        0.0118461,
+        0.999929,
+        0.00106943
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20220720"
+}

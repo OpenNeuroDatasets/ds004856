@@ -1,0 +1,25 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPDTI_jones30_b1000_SPIRweakSENSE",
+    "SeriesNumber": 3,
+    "AcquisitionNumber": 3,
+    "ImageComments": "HippoW3HC",
+    "PhilipsRescaleSlope": 13.3619,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00097765,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.051,
+    "RepetitionTime": 4.41,
+    "ImageOrientationPatientDICOM": [
+        0.998031,
+        -0.0386744,
+        -0.0493823,
+        0.0365961,
+        0.998434,
+        -0.0423185
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20220720"
+}

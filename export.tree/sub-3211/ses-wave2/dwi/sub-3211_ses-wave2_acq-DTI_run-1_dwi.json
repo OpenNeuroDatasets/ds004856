@@ -1,0 +1,25 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSeries",
+    "ProtocolName": "WIPDTI_jones30_b1000SENSE",
+    "SeriesNumber": 3,
+    "AcquisitionNumber": 3,
+    "ImageComments": "HippoNC",
+    "PhilipsRescaleSlope": 13.5639,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.000879596,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.051,
+    "RepetitionTime": 4.41,
+    "ImageOrientationPatientDICOM": [
+        0.998605,
+        -0.0505807,
+        -0.0151569,
+        0.0488399,
+        0.993892,
+        -0.0989626
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20220720"
+}

@@ -1,0 +1,25 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPMPRAGE2100SENSE",
+    "SeriesNumber": 11,
+    "AcquisitionNumber": 11,
+    "ImageComments": "HippoHC",
+    "PhilipsRescaleSlope": 4.91355,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.000413617,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.00376,
+    "RepetitionTime": 0.008199,
+    "ImageOrientationPatientDICOM": [
+        -0.0719982,
+        0.993949,
+        0.082959,
+        -0.0244322,
+        0.0813924,
+        -0.996383
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20220720"
+}

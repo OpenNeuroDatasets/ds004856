@@ -1,0 +1,25 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "MPRAGE2100SENSE",
+    "SeriesNumber": 11,
+    "AcquisitionNumber": 11,
+    "ImageComments": "fMRI",
+    "PhilipsRescaleSlope": 6.47106,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.000385859,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.00378,
+    "RepetitionTime": 0.008205,
+    "ImageOrientationPatientDICOM": [
+        -0.0270295,
+        0.993657,
+        -0.109161,
+        0.0382134,
+        -0.108094,
+        -0.993406
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20220720"
+}

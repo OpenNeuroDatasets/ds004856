@@ -1,0 +1,71 @@
+{
+  "Modality": "PT",
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "962",
+  "InstitutionName": "ECAT",
+  "DeviceSerialNumber": "1",
+  "SoftwareVersions": "ECAT_72_e.soft_8.5.10.1",
+  "SeriesDescription": "PET_SUMMED_EMISSION",
+  "ProtocolName": "PET_SUMMED_EMISSION",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY"
+  ],
+  "SeriesNumber": 1,
+  "AcquisitionTime": "15:07:12.016000",
+  "RadionuclidePositronFraction": 1,
+  "RadionuclideTotalDose": 374070000,
+  "RadionuclideHalfLife": 6586.2,
+  "DoseCalibrationFactor": 9123610,
+  "SliceThickness": 2.425,
+  "ReconMatrixPE": 128,
+  "ImageOrientationPatientDICOM": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20181114  Clang6.1.0",
+  "TracerName": "AV-45 florbetapir",
+  "InjectedRadioactivity": 7,
+  "InjectedRadioactivityUnits": "mSV",
+  "Units": "Bq/mL",
+  "TracerRadionuclide": "F18",
+  "InjectedMass": 10,
+  "InjectedMassUnits": "approximate mCi",
+  "ModeOfAdministration": "bolus",
+  "SpecificRadioactivity": "n/a",
+  "SpecificRadioactivityUnits": "n/a",
+  "InjectionStart": -3000000,
+  "ScanStart": 0,
+  "ImageDecayCorrected": true,
+  "ImageDecayCorrectionTime": 0,
+  "AcquisitionMode": "dynamic",
+  "ReconMethodName": "back-projection",
+  "ReconMethodParameterLabels": [
+    "subsets",
+    "iterations"
+  ],
+  "ReconMethodParameterUnits": [
+    "none",
+    "none"
+  ],
+  "ReconMethodParameterValues": [
+    16,
+    4
+  ],
+  "ReconFilterType": "FWHM Gaussian",
+  "ReconFilterSize": 3,
+  "AttenuationCorrection": "measured,AC_CT",
+  "TimeZero": "15:07:12",
+  "FrameTimesStart": [
+    0
+  ],
+  "FrameDuration": [
+    600000
+  ],
+  "FrameDurationUnits": "ms"
+}

@@ -1,0 +1,24 @@
+1.3.0 2025-07-10
+  - Update PET image json header (mismatch FrameDuration and FrameTimesStart fields)
+  - Update KTTK documentation PDF
+  - Moved spreadsheet summary into /derivatives
+1.2.0 2024-10-10
+  - Uploaded EPrime files for each fMRI task in the /eprime directory
+  - Minor formatting changes to the Readme
+1.1.1 2024-10-03
+  - Edited Readme file for clarity.
+1.1.0 2024-10-03
+  - Survey data (health, psychosocial, AD screening) uploaded to the /surveys directory
+  - Added email for general inquiries (dlbs@utdallas.edu)
+1.0.4 2024-09-09
+  - Changed filename of the Keys to the Kingdom document to align with BIDS formatting guidelines
+1.0.3 2024-09-09
+  - Removed references to the Executive Function construct, which was not included in the published database due to incompleteness - from the Keys to the Kingdom document
+  - Corrected cognitive construct numbering in the Readme file to match those used in the database and Keys to the Kingdom documentation
+  - Added note explaining cognitive construct numbering to readme file and Keys to the Kingdom documentation
+1.0.2 2024-08-16
+  - Removed redundant acknowledgements and incorrect DOI number.
+1.0.1 2024-08-15
+  - Authorship has been updated
+1.0.0 2024-08-05
+  - Initial public release of the Dallas Lifespan Brain Study

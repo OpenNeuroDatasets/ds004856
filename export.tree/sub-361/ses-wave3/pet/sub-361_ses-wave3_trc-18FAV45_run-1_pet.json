@@ -1,0 +1,77 @@
+{
+  "Modality": "PT",
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Biograph128_mCT",
+  "BodyPartExamined": "HEAD",
+  "PatientPosition": "HFS",
+  "SoftwareVersions": "VG70A",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY"
+  ],
+  "SeriesNumber": 10,
+  "AcquisitionTime": "15:08:2.000000",
+  "AcquisitionNumber": 2001,
+  "Radiopharmaceutical": "Florbetapir",
+  "RadionuclidePositronFraction": 0.9673,
+  "RadionuclideTotalDose": 407000000,
+  "RadionuclideHalfLife": 6586.2,
+  "DoseCalibrationFactor": 32991000,
+  "ConvolutionKernel": "XYZ Gauss3.00",
+  "Unit": "BQML",
+  "DecayCorrection": "START",
+  "AttenuationCorrectionMethod": "measured,AC  CT Brain  2.0   H19s_RECON",
+  "ReconstructionMethod": "OSEM3D 4i24s",
+  "FrameDuration": [
+    300000,
+    300000
+  ],
+  "SliceThickness": 2,
+  "ImageOrientationPatientDICOM": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20210317",
+  "TracerName": "AV-45 florbetapir",
+  "InjectedRadioactivity": 7,
+  "InjectedRadioactivityUnits": "mSV",
+  "Units": "Bq/mL",
+  "TracerRadionuclide": "F18",
+  "InjectedMass": 10,
+  "InjectedMassUnits": "approximate mCi",
+  "ModeOfAdministration": "bolus",
+  "SpecificRadioactivity": "n/a",
+  "SpecificRadioactivityUnits": "n/a",
+  "InjectionStart": -3000000,
+  "ScanStart": 0,
+  "ImageDecayCorrected": true,
+  "ImageDecayCorrectionTime": 0,
+  "AcquisitionMode": "dynamic",
+  "ReconMethodName": "back-projection",
+  "ReconMethodParameterLabels": [
+    "subsets",
+    "iterations"
+  ],
+  "ReconMethodParameterUnits": [
+    "none",
+    "none"
+  ],
+  "ReconMethodParameterValues": [
+    21,
+    4
+  ],
+  "ReconFilterType": "FWHM Gaussian",
+  "ReconFilterSize": 3,
+  "AttenuationCorrection": "measured,AC_CT",
+  "TimeZero": "15:08:02",
+  "FrameTimesStart": [
+    0,
+    300000
+  ],
+  "FrameDurationUnits": "ms"
+}

@@ -1,0 +1,77 @@
+{
+  "Modality": "PT",
+  "Manufacturer": "GE",
+  "ManufacturersModelName": "Discovery MI",
+  "InstitutionName": "UT Southwestern",
+  "InstitutionAddress": "Dallas, Texas",
+  "DeviceSerialNumber": "*",
+  "StationName": "PET_CTR_PT3",
+  "PatientPosition": "HFS",
+  "SoftwareVersions": "pet_columbia.179",
+  "SeriesDescription": "PET BRAIN TAU CORRECTED",
+  "ProtocolName": "1.7 PTCT_Brain_TAU_PARKS",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY"
+  ],
+  "SeriesNumber": 14,
+  "AcquisitionTime": "14:06:3.000000",
+  "Radiopharmaceutical": "[18F]Florbetaben",
+  "RadionuclidePositronFraction": 0.967,
+  "RadionuclideTotalDose": 384800000,
+  "RadionuclideHalfLife": 6586.2,
+  "DoseCalibrationFactor": 4493590,
+  "Units": "Bq/mL",
+  "DecayCorrection": "START",
+  "AttenuationCorrectionMethod": "measured,, 0.000000 cm-1, attenuation smooth",
+  "ReconstructionMethod": "VPHD",
+  "SliceThickness": 2.8,
+  "ImageOrientationPatientDICOM": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "TracerName": "AV-1451 flortaucipir",
+  "TracerRadionuclide": "F18",
+  "InjectedRadioactivity": 8.92,
+  "InjectedRadioactivityUnits": "mSV",
+  "InjectedMass": 10,
+  "InjectedMassUnits": "approximate mCi",
+  "ModeOfAdministration": "bolus",
+  "SpecificRadioactivity": "n/a",
+  "SpecificRadioactivityUnits": "n/a",
+  "TimeZero": "14:06:03",
+  "InjectionStart": -4800000,
+  "FrameDuration": [
+    1200000
+  ],
+  "ScanStart": 0,
+  "ImageDecayCorrected": true,
+  "ImageDecayCorrectionTime": 0,
+  "AcquisitionMode": "dynamic",
+  "ReconMethodName": "VPHD",
+  "ReconMethodParameterLabels": [
+    "subsets",
+    "iterations"
+  ],
+  "ReconMethodParameterUnits": [
+    "none",
+    "none"
+  ],
+  "ReconMethodParameterValues": [
+    34,
+    3
+  ],
+  "ReconFilterType": "FWHM Gaussian",
+  "ReconFilterSize": 3,
+  "AttenuationCorrection": "measured,AC_CT",
+  "FrameDurationUnits": "ms",
+  "FrameTimesStart": [
+    0
+  ]
+}
